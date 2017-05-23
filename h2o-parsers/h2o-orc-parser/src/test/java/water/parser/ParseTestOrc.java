@@ -10,6 +10,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import water.TestUtil;
+import water.fvec.Frame;
 import water.util.FileUtils;
 import water.util.Log;
 
@@ -68,7 +69,7 @@ public class ParseTestOrc extends TestUtil {
     };
 
     @BeforeClass
-    static public void setup() { TestUtil.stall_till_cloudsize(5); }
+    static public void setup() { TestUtil.stall_till_cloudsize(1); }
 
     @BeforeClass
     static public void _preconditionJavaVersion() { // NOTE: the `_` force execution of this check after setup
