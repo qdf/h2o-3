@@ -1,3 +1,5 @@
+ai.h2o.automl.AutoML.AutoMLKeyV3
+ai.h2o.automl.Leaderboard$LeaderboardKeyV3
 water.automl.api.schemas3.AutoMLBuildSpecV99
 water.automl.api.schemas3.AutoMLBuildSpecV99$AutoMLBuildControlV99
 water.automl.api.schemas3.AutoMLBuildSpecV99$AutoMLBuildModelsV99
