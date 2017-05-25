@@ -3,7 +3,6 @@ package hex;
 import hex.ensemble.StackedEnsemble;
 import hex.genmodel.utils.DistributionFamily;
 import hex.glm.GLMModel;
-import hex.tree.CompressedTree;
 import hex.tree.drf.DRFModel;
 import water.*;
 import water.exceptions.H2OIllegalArgumentException;
